@@ -1,7 +1,7 @@
 repo_name: dabhi22/opengpts
-report_id: b7d095064fe278389d2e876595ddf109
+report_id: d95eeff072455079940147489d95d52e
 repo_type: Public
-timestamp: '2023-12-07T15:31:18+00:00'
+timestamp: '2023-12-11T12:59:58+00:00'
 requested_by: eyurtsev
 provider: github
 branch: main
@@ -55,6 +55,8 @@ tools:
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
   detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
 - name: PostCSS
   description: Transform CSS with JS plugins
   website_url: https://github.com/postcss/postcss
@@ -65,6 +67,8 @@ tools:
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
   detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
 - name: React
   description: A JavaScript library for building user interfaces
   website_url: https://reactjs.org/
@@ -77,6 +81,8 @@ tools:
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
   detection_source_url: github.com/dabhi22/opengpts/blob/main/frontend/yarn.lock
   detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
 - name: Docker
   description: Enterprise Container Platform for High-Velocity Innovation.
   website_url: https://www.docker.com/
@@ -97,6 +103,8 @@ tools:
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
   detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -115,6 +123,8 @@ tools:
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
   detection_source: ".github/workflows/_lint.yml"
+  last_updated_by: Eugene Yurtsev
+  last_updated_on: 2023-11-09 20:13:23.000000000 Z
 - name: Yarn
   description: A new package manager for JavaScript
   website_url: https://yarnpkg.com/
@@ -124,6 +134,8 @@ tools:
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
   detection_source: frontend/yarn.lock
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
 - name: npm
   description: The package manager for JavaScript.
   website_url: https://www.npmjs.com/
@@ -133,12 +145,16 @@ tools:
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
   detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
 - name: NPM Trends
   website_url: https://www.npmtrends.com/
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
   detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
 - name: OpenAI
   description: Creating safe AGI that benefits all
   website_url: https://openai.com/
@@ -150,6 +166,8 @@ tools:
   image_url: https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg
   detection_source_url: github.com/dabhi22/opengpts/blob/main/backend/packages/gizmo-agent/pyproject.toml
   detection_source: backend/packages/gizmo-agent/pyproject.toml
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
 - name: "@types/react"
   description: TypeScript definitions for React
   package_url: https://www.npmjs.com/@types/react
@@ -162,6 +180,8 @@ tools:
   image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
   detection_source_url: github.com/dabhi22/opengpts/blob/main/frontend/yarn.lock
   detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
 - name: "@types/react-dom"
   description: TypeScript definitions for React
   package_url: https://www.npmjs.com/@types/react-dom
@@ -174,6 +194,8 @@ tools:
   image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
   detection_source_url: github.com/dabhi22/opengpts/blob/main/frontend/yarn.lock
   detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
 - name: "@typescript-eslint/eslint-plugin"
   description: TypeScript plugin for ESLint
   package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
@@ -186,6 +208,8 @@ tools:
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
   detection_source_url: github.com/dabhi22/opengpts/blob/main/frontend/yarn.lock
   detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
 - name: "@typescript-eslint/parser"
   description: An ESLint custom parser which leverages TypeScript ESTree
   package_url: https://www.npmjs.com/@typescript-eslint/parser
@@ -198,6 +222,8 @@ tools:
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
   detection_source_url: github.com/dabhi22/opengpts/blob/main/frontend/yarn.lock
   detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
 - name: eslint-plugin-react-hooks
   description: ESLint rules for React Hooks
   package_url: https://www.npmjs.com/eslint-plugin-react-hooks
@@ -210,6 +236,8 @@ tools:
   image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
   detection_source_url: github.com/dabhi22/opengpts/blob/main/frontend/yarn.lock
   detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
 - name: marked
   description: A markdown parser built for speed
   package_url: https://www.npmjs.com/marked
@@ -222,6 +250,8 @@ tools:
   image_url: https://img.stackshare.io/package/16065/default_c7b204838197013798409fa2b4dafce450edc7fb.png
   detection_source_url: github.com/dabhi22/opengpts/blob/main/frontend/yarn.lock
   detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
 - name: react-dom
   description: React package for working with the DOM
   package_url: https://www.npmjs.com/react-dom
@@ -234,6 +264,8 @@ tools:
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
   detection_source_url: github.com/dabhi22/opengpts/blob/main/frontend/yarn.lock
   detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
 - name: tailwindcss
   description: A utility-first CSS framework for rapidly building custom user interfaces
   package_url: https://www.npmjs.com/tailwindcss
@@ -246,3 +278,5 @@ tools:
   image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
   detection_source_url: github.com/dabhi22/opengpts/blob/main/frontend/yarn.lock
   detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
