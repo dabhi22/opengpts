@@ -44,7 +44,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [dabhi22/opengpts](https://github.com/dabhi22/opengpts)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|23<br/>Tools used|12/07/23 <br/>Report generated|
+|23<br/>Tools used|12/11/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -195,14 +195,14 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@types/react](https://www.npmjs.com/@types/react)|v18.2.35|N/A|N/A |MIT|N/A|
-|[@types/react-dom](https://www.npmjs.com/@types/react-dom)|v18.2.14|N/A|N/A |MIT|N/A|
-|[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v6.9.1|N/A|N/A |MIT|N/A|
-|[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v6.9.1|N/A|N/A |BSD-2-Clause|N/A|
-|[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v4.6.0|N/A|N/A |MIT|N/A|
-|[marked](https://www.npmjs.com/marked)|v9.1.5|N/A|N/A |MIT|N/A|
-|[react-dom](https://www.npmjs.com/react-dom)|v18.2.0|N/A|N/A |MIT|N/A|
-|[tailwindcss](https://www.npmjs.com/tailwindcss)|v3.3.5|N/A|N/A |MIT|N/A|
+|[@types/react](https://www.npmjs.com/@types/react)|v18.2.35|11/06/23|Nuno Campos |MIT|N/A|
+|[@types/react-dom](https://www.npmjs.com/@types/react-dom)|v18.2.14|11/06/23|Nuno Campos |MIT|N/A|
+|[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v6.9.1|11/06/23|Nuno Campos |MIT|N/A|
+|[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v6.9.1|11/06/23|Nuno Campos |BSD-2-Clause|N/A|
+|[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v4.6.0|11/06/23|Nuno Campos |MIT|N/A|
+|[marked](https://www.npmjs.com/marked)|v9.1.5|11/06/23|Nuno Campos |MIT|N/A|
+|[react-dom](https://www.npmjs.com/react-dom)|v18.2.0|11/06/23|Nuno Campos |MIT|N/A|
+|[tailwindcss](https://www.npmjs.com/tailwindcss)|v3.3.5|11/06/23|Nuno Campos |MIT|N/A|
 
 <br/>
 <div align='center'>
