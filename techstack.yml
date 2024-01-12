@@ -1,12 +1,12 @@
 repo_name: dabhi22/opengpts
-report_id: 92e617db43b6e47c7fce9f23689c8c14
+report_id: b969b4a42eb8021e4ce4620dfd2287af
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-10T09:39:43+00:00'
+timestamp: '2024-01-12T12:50:56+00:00'
 requested_by: eyurtsev
 provider: github
 branch: main
-detected_tools_count: 24
+detected_tools_count: 25
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -191,6 +191,17 @@ tools:
   category: Communications
   sub_category: Large Language Models
   image_url: https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg
+  detection_source_url: https://github.com/dabhi22/opengpts/blob/main/backend/packages/gizmo-agent/pyproject.toml
+  detection_source: backend/packages/gizmo-agent/pyproject.toml
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
+- name: VikingPic
+  description: Transform yourself into a viking using AI
+  website_url: https://www.vikingpic.com/
+  version: 0.3.11
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/145167/default_1afbd43be06ce7171e9e4364a6fe1fd28fa8d9ee.png
   detection_source_url: https://github.com/dabhi22/opengpts/blob/main/backend/packages/gizmo-agent/pyproject.toml
   detection_source: backend/packages/gizmo-agent/pyproject.toml
   last_updated_by: Nuno Campos
