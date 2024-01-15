@@ -46,7 +46,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [dabhi22/opengpts](https://github.com/dabhi22/opengpts)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|25<br/>Tools used|01/12/24 <br/>Report generated|
+|25<br/>Tools used|01/15/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -196,7 +196,7 @@ Full tech stack [here](/techstack.md)
 </td>
 
 <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/145167/default_1afbd43be06ce7171e9e4364a6fe1fd28fa8d9ee.png' alt='VikingPic'>
+  <img width='36' height='36' src='https://img.stackshare.io/empty-logo-square.png' alt='VikingPic'>
   <br>
   <sub><a href="https://www.vikingpic.com/">VikingPic</a></sub>
   <br>
