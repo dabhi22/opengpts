@@ -1,8 +1,8 @@
 repo_name: dabhi22/opengpts
-report_id: a6c009253f44945906b431ec247e6225
+report_id: 51b0a7c782df5df9c8135dd41e65354c
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-12T13:11:10+00:00'
+timestamp: '2024-01-15T10:14:11+00:00'
 requested_by: eyurtsev
 provider: github
 branch: main
@@ -201,7 +201,7 @@ tools:
   version: 0.3.11
   open_source: false
   hosted_saas: false
-  image_url: https://img.stackshare.io/service/145167/default_1afbd43be06ce7171e9e4364a6fe1fd28fa8d9ee.png
+  image_url: https://img.stackshare.io/empty-logo-square.png
   detection_source_url: https://github.com/dabhi22/opengpts/blob/main/backend/packages/gizmo-agent/pyproject.toml
   detection_source: backend/packages/gizmo-agent/pyproject.toml
   last_updated_by: Nuno Campos
