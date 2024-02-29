@@ -54,7 +54,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [dabhi22/opengpts](https://github.com/dabhi22/opengpts)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|35<br/>Tools used|02/21/24 <br/>Report generated|
+|35<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -262,8 +262,8 @@ Full tech stack [here](/techstack.md)
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[anthropic](https://pypi.org/project/anthropic)|v0.3.11|11/06/23|Nuno Campos |N/A|N/A|
-|[langchain](https://pypi.org/project/langchain)|v0.0.333|11/06/23|Nuno Campos |N/A|N/A|
-|[langchain-experimental](https://pypi.org/project/langchain-experimental)|v0.0.37|11/06/23|Nuno Campos |N/A|N/A|
+|[langchain](https://pypi.org/project/langchain)|v0.0.333|11/06/23|Nuno Campos |N/A|[CVE-2024-0243](https://github.com/advisories/GHSA-h9j7-5xvc-qhg5) (Low)|
+|[langchain-experimental](https://pypi.org/project/langchain-experimental)|v0.0.37|11/06/23|Nuno Campos |N/A|[CVE-2024-27444](https://github.com/advisories/GHSA-v8vj-cv27-hjv8) (Moderate)|
 |[openai](https://pypi.org/project/openai)|v0.5.0|11/06/23|Nuno Campos |N/A|N/A|
 |[uvicorn](https://pypi.org/project/uvicorn)|v0.23.2|11/06/23|Nuno Campos |BSD-3-Clause|N/A|
 
