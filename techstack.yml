@@ -2,7 +2,7 @@ repo_name: dabhi22/opengpts
 report_id: e5c87305430a8426af7f8a9a1156ddde
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-21T12:24:48+00:00'
+timestamp: '2024-02-29T20:09:37+00:00'
 requested_by: eyurtsev
 provider: github
 branch: main
@@ -431,6 +431,13 @@ tools:
   detection_source: backend/packages/agent-executor/pyproject.toml
   last_updated_by: Nuno Campos
   last_updated_on: 2023-11-06 18:51:30.000000000 Z
+  vulnerabilities:
+  - name: langchain Server-Side Request Forgery vulnerability
+    cve_id: CVE-2024-0243
+    cve_url: https://github.com/advisories/GHSA-h9j7-5xvc-qhg5
+    detected_date: Feb 27
+    severity: low
+    first_patched: 0.1.0
 - name: langchain-experimental
   description: Building applications with LLMs through composability
   package_url: https://pypi.org/project/langchain-experimental
@@ -444,6 +451,13 @@ tools:
   detection_source: backend/packages/gizmo-agent/pyproject.toml
   last_updated_by: Nuno Campos
   last_updated_on: 2023-11-06 18:51:30.000000000 Z
+  vulnerabilities:
+  - name: LangChain Experimental vulnerable to arbitrary code execution
+    cve_id: CVE-2024-27444
+    cve_url: https://github.com/advisories/GHSA-v8vj-cv27-hjv8
+    detected_date: Feb 27
+    severity: moderate
+    first_patched: 0.0.52
 - name: openai
   description: The official Python library for the openai API
   package_url: https://pypi.org/project/openai
