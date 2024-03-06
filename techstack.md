@@ -7,17 +7,13 @@ dabhi22/opengpts is built on the following main stack:
 - [Python](https://www.python.org) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
 - [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- [FastAPI](https://fastapi.tiangolo.com/) – Microframeworks (Backend)
 - [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
 - [React](https://reactjs.org/) – Javascript UI Libraries
-- [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - [ESLint](http://eslint.org/) – Code Review
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
 - [Yarn](https://yarnpkg.com/) – Front End Package Manager
 - [Claude](https://www.anthropic.com/product) – Large Language Models
-- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
 - [OpenAI](https://openai.com/) – Large Language Models
 
 Full tech stack [here](/techstack.md)
@@ -32,17 +28,13 @@ dabhi22/opengpts is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/25014/default_f6ff39141b468e832d1bc59fc98a060df604d44d.png' alt='FastAPI'/> [FastAPI](https://fastapi.tiangolo.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/3339/rlFcjEdI.png' alt='PostCSS'/> [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png' alt='Tailwind CSS'/> [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'/> [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
 - <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/101883/default_fddf1fbe1d52baf4dac573b2b7fc24b78cc729b1.jpg' alt='Claude'/> [Claude](https://www.anthropic.com/product) – Large Language Models
-- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg' alt='OpenAI'/> [OpenAI](https://openai.com/) – Large Language Models
 
 Full tech stack [here](/techstack.md)
@@ -54,7 +46,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [dabhi22/opengpts](https://github.com/dabhi22/opengpts)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|35<br/>Tools used|02/29/24 <br/>Report generated|
+|25<br/>Tools used|03/06/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -95,7 +87,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (5)
+## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (3)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'>
@@ -103,14 +95,6 @@ Full tech stack [here](/techstack.md)
   <sub><a href="https://github.com/postcss/autoprefixer">Autoprefixer</a></sub>
   <br>
   <sub></sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/25014/default_f6ff39141b468e832d1bc59fc98a060df604d44d.png' alt='FastAPI'>
-  <br>
-  <sub><a href="https://fastapi.tiangolo.com/">FastAPI</a></sub>
-  <br>
-  <sub>v0.103.2</sub>
 </td>
 
 <td align='center'>
@@ -126,21 +110,13 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://reactjs.org/">React</a></sub>
   <br>
-  <sub>v18.2.0</sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png' alt='Tailwind CSS'>
-  <br>
-  <sub><a href="https://tailwindcss.com">Tailwind CSS</a></sub>
-  <br>
   <sub></sub>
 </td>
 
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/devops.svg'/> DevOps (8)
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (6)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'>
@@ -175,22 +151,6 @@ Full tech stack [here](/techstack.md)
 </td>
 
 <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg' alt='PyPI'>
-  <br>
-  <sub><a href="https://pypi.org/">PyPI</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'>
-  <br>
-  <sub><a href="https://vitejs.dev/">Vite</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'>
   <br>
   <sub><a href="https://yarnpkg.com/">Yarn</a></sub>
@@ -209,22 +169,22 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (3)
+## Other (4)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/101883/default_fddf1fbe1d52baf4dac573b2b7fc24b78cc729b1.jpg' alt='Claude'>
   <br>
   <sub><a href="https://www.anthropic.com/product">Claude</a></sub>
   <br>
-  <sub>v0.3.11</sub>
+  <sub></sub>
 </td>
 
 <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/12294/empty-logo-square.png' alt='NPM Trends'>
   <br>
-  <sub><a href="https://github.com/hwchase17/langchain">LangChain</a></sub>
+  <sub><a href="https://www.npmtrends.com/">NPM Trends</a></sub>
   <br>
-  <sub>v0.0.333</sub>
+  <sub></sub>
 </td>
 
 <td align='center'>
@@ -232,40 +192,35 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://openai.com/">OpenAI</a></sub>
   <br>
-  <sub>v0.5.0</sub>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/145167/default_1afbd43be06ce7171e9e4364a6fe1fd28fa8d9ee.png' alt='VikingPic'>
+  <br>
+  <sub><a href="https://www.vikingpic.com/">VikingPic</a></sub>
+  <br>
+  <sub></sub>
 </td>
 
 </tr>
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (15)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (8)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (10)
-
-|NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
-|:------|:------|:------|:------|:------|:------|
-|[@tailwindcss/typography](https://www.npmjs.com/@tailwindcss/typography)|v0.5.10|11/06/23|Nuno Campos |N/A|N/A|
-|[@types/react](https://www.npmjs.com/@types/react)|v18.2.35|11/06/23|Nuno Campos |MIT|N/A|
-|[@types/react-dom](https://www.npmjs.com/@types/react-dom)|v18.2.14|11/06/23|Nuno Campos |MIT|N/A|
-|[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v6.9.1|11/06/23|Nuno Campos |MIT|N/A|
-|[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v6.9.1|11/06/23|Nuno Campos |BSD-2-Clause|N/A|
-|[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v4.6.0|11/06/23|Nuno Campos |MIT|N/A|
-|[marked](https://www.npmjs.com/marked)|v9.1.5|11/06/23|Nuno Campos |MIT|N/A|
-|[react-dom](https://www.npmjs.com/react-dom)|v18.2.0|11/06/23|Nuno Campos |MIT|N/A|
-|[tailwindcss](https://www.npmjs.com/tailwindcss)|v3.3.5|11/06/23|Nuno Campos |MIT|N/A|
-|[vite](https://www.npmjs.com/vite)|v4.5.0|11/06/23|Nuno Campos |N/A|[CVE-2024-23331](https://github.com/advisories/GHSA-c24v-8rfc-w8vw) (High)<br/>[CVE-2023-49293](https://github.com/advisories/GHSA-92r3-m2mg-pj97) (Moderate)|
-
-
-## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (5)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (8)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[anthropic](https://pypi.org/project/anthropic)|v0.3.11|11/06/23|Nuno Campos |N/A|N/A|
-|[langchain](https://pypi.org/project/langchain)|v0.0.333|11/06/23|Nuno Campos |N/A|[CVE-2024-0243](https://github.com/advisories/GHSA-h9j7-5xvc-qhg5) (Low)|
-|[langchain-experimental](https://pypi.org/project/langchain-experimental)|v0.0.37|11/06/23|Nuno Campos |N/A|[CVE-2024-27444](https://github.com/advisories/GHSA-v8vj-cv27-hjv8) (Moderate)|
-|[openai](https://pypi.org/project/openai)|v0.5.0|11/06/23|Nuno Campos |N/A|N/A|
-|[uvicorn](https://pypi.org/project/uvicorn)|v0.23.2|11/06/23|Nuno Campos |BSD-3-Clause|N/A|
+|[@types/react](https://www.npmjs.com/@types/react)|N/A|11/06/23|Nuno Campos |MIT|N/A|
+|[@types/react-dom](https://www.npmjs.com/@types/react-dom)|N/A|11/06/23|Nuno Campos |MIT|N/A|
+|[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|N/A|11/06/23|Nuno Campos |MIT|N/A|
+|[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|N/A|11/06/23|Nuno Campos |BSD-2-Clause|N/A|
+|[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|N/A|11/06/23|Nuno Campos |MIT|N/A|
+|[marked](https://www.npmjs.com/marked)|N/A|11/06/23|Nuno Campos |MIT|N/A|
+|[react-dom](https://www.npmjs.com/react-dom)|N/A|11/06/23|Nuno Campos |MIT|N/A|
+|[tailwindcss](https://www.npmjs.com/tailwindcss)|N/A|11/06/23|Nuno Campos |MIT|N/A|
 
 <br/>
 <div align='center'>
