@@ -1,0 +1,320 @@
+repo_name: dabhi22/opengpts
+report_id: 7512de3c2a4803d72e98fcc8199c1f22
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-15T11:04:19+00:00'
+requested_by: eyurtsev
+provider: github
+branch: main
+detected_tools_count: 25
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/dabhi22/opengpts
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/dabhi22/opengpts
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/dabhi22/opengpts
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/dabhi22/opengpts
+  detection_source: Repo Metadata
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/dabhi22/opengpts/blob/main/frontend/package.json
+  detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/dabhi22/opengpts/blob/main/frontend/package.json
+  detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/dabhi22/opengpts/blob/main/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/dabhi22/opengpts
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/dabhi22/opengpts/blob/main/frontend/package.json
+  detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/dabhi22/opengpts
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/dabhi22/opengpts/blob/main/.github/workflows/_lint.yml
+  detection_source: ".github/workflows/_lint.yml"
+  last_updated_by: Eugene Yurtsev
+  last_updated_on: 2023-11-09 20:13:23.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/dabhi22/opengpts/blob/main/frontend/yarn.lock
+  detection_source: frontend/yarn.lock
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/dabhi22/opengpts/blob/main/frontend/package.json
+  detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
+- name: Claude
+  description: A next-generation AI assistant for your tasks, no matter the scale
+  website_url: https://www.anthropic.com/product
+  version: 0.3.11
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Models
+  image_url: https://img.stackshare.io/service/101883/default_fddf1fbe1d52baf4dac573b2b7fc24b78cc729b1.jpg
+  detection_source_url: https://github.com/dabhi22/opengpts/blob/main/backend/packages/gizmo-agent/pyproject.toml
+  detection_source: backend/packages/gizmo-agent/pyproject.toml
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
+- name: NPM Trends
+  website_url: https://www.npmtrends.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
+  detection_source_url: https://github.com/dabhi22/opengpts/blob/main/frontend/package.json
+  detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
+- name: OpenAI
+  description: Creating safe AGI that benefits all
+  website_url: https://openai.com/
+  version: 0.5.0
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Models
+  image_url: https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg
+  detection_source_url: https://github.com/dabhi22/opengpts/blob/main/backend/packages/gizmo-agent/pyproject.toml
+  detection_source: backend/packages/gizmo-agent/pyproject.toml
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
+- name: VikingPic
+  description: Transform yourself into a viking using AI
+  website_url: https://www.vikingpic.com/
+  version: 0.3.11
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/145167/default_1afbd43be06ce7171e9e4364a6fe1fd28fa8d9ee.png
+  detection_source_url: https://github.com/dabhi22/opengpts/blob/main/backend/packages/gizmo-agent/pyproject.toml
+  detection_source: backend/packages/gizmo-agent/pyproject.toml
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 18.2.35
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/dabhi22/opengpts/blob/main/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 18.2.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/dabhi22/opengpts/blob/main/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 6.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/dabhi22/opengpts/blob/main/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 6.9.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/dabhi22/opengpts/blob/main/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/dabhi22/opengpts/blob/main/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
+- name: marked
+  description: A markdown parser built for speed
+  package_url: https://www.npmjs.com/marked
+  version: 9.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16065/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/dabhi22/opengpts/blob/main/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/dabhi22/opengpts/blob/main/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
+- name: tailwindcss
+  description: A utility-first CSS framework for rapidly building custom user interfaces
+  package_url: https://www.npmjs.com/tailwindcss
+  version: 3.3.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/dabhi22/opengpts/blob/main/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Nuno Campos
+  last_updated_on: 2023-11-06 18:51:30.000000000 Z
